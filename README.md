@@ -4,9 +4,8 @@ Implement robot with camera sensor in ROS/Gazebo and make it chase white ball pl
 # Setup
 
 ```
-mkdir ChaseIt
-mkdir -p catkin_ws/src
-cd catkin_ws/src
+mkdir -p ChaseIt/catkin_ws/src
+cd ChaseIt/catkin_ws/src
 git clone https://github.com/max-kazak/RoboticsND-ChaseIt.git .
 catkin_init_workspace
 cd ..
