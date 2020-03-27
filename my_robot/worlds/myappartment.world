@@ -4432,7 +4432,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>/home/robond/workspace/Project2/catkin_ws/src/my_robot/meshes/hokuyo.dae</uri>
+              <uri>/home/robond/workspace/ChaseIt/catkin_ws/src/my_robot/meshes/hokuyo.dae</uri>
             </mesh>
           </geometry>
           <material>
